@@ -1,0 +1,3 @@
+var Control = require('./')
+
+Control()
