@@ -132,20 +132,3 @@ module.exports = function () {
   }
 
 }
-
-// reset button
-// play / pause button
-// next button
-
-// logging checkbox
-// logging session number
-
-// total time elapsed
-// current trial time elapsed
-
-// reivece advance trial event, which contains trial name,
-
-// list of available trials
-// list of next trials
-// current trial
-// next trial can be next trial block
